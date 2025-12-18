@@ -1,6 +1,4 @@
-# README
-
-## 个人博客后端API文档
+# 个人博客后端API文档
 
 ## 1. 认证相关接口 (AuthController)
 
